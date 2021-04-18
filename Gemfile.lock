@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    git (1.8.1)
+      rchardet (~> 1.8)
+    rchardet (1.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  git
+
+RUBY VERSION
+   ruby 2.7.2p137
+
+BUNDLED WITH
+   1.17.2
